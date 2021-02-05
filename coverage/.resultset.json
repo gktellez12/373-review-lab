@@ -42,6 +42,11 @@
         null,
         1,
         0,
+        null,
+        null,
+        0,
+        0,
+        null,
         null
       ],
       "/Users/gabrielatellez/Documents/CMU/Spring2021/67-373/hw/lab5-choretracker-starter/app/models/application_record.rb": [
@@ -309,6 +314,6 @@
         0
       ]
     },
-    "timestamp": 1612486163
+    "timestamp": 1612486548
   }
 }
