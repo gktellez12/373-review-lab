@@ -3,11 +3,14 @@ class Child < ApplicationRecord
     has_many :chores
     has_many :tasks, through: :chores
 
-    validate_presence_of :first_name
-    validate_presence_of :last_name
+    scope :alphabetical, -> { order(:last_name, :first_name) }
+    scope :active, -> { where(active:true) }
+
+    validates_presence_of :first_name
+    validates_presence_of :last_name
 
 
     def name
-    	first_name.capitalize() + " " + last_name.capitalize()
+        first_name + " " +last_name
     end
 end
