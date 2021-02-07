@@ -61,6 +61,21 @@
         1,
         null
       ],
+      "/Users/gabrielatellez/Documents/CMU/Spring2021/67-373/hw/lab5-choretracker-starter/app/models/task.rb": [
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
       "/Users/gabrielatellez/Documents/CMU/Spring2021/67-373/hw/lab5-choretracker-starter/app/models/chore.rb": [
         1,
         null,
@@ -79,21 +94,6 @@
         null,
         1,
         0,
-        null,
-        null,
-        null
-      ],
-      "/Users/gabrielatellez/Documents/CMU/Spring2021/67-373/hw/lab5-choretracker-starter/app/models/task.rb": [
-        1,
-        null,
-        1,
-        1,
-        null,
-        1,
-        1,
-        null,
-        1,
-        1,
         null,
         null,
         null
@@ -350,6 +350,6 @@
         0
       ]
     },
-    "timestamp": 1612491268
+    "timestamp": 1612496913
   }
 }
